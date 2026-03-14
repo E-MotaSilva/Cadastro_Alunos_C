@@ -46,33 +46,33 @@ void switches(){
 		
 		switch(menu){
 		
-				case 1:
-					cadaluno();
-				break;
+			case 1:
+				cadaluno();
+			break;
 				
-				case 2:
-					cadnotas();
-				break;
+			case 2:
+				cadnotas();
+			break;
 				
-				case 3:
-					consulnotas();
-				break;
+			case 3:
+				consulnotas();
+			break;
 
-        case 4:
-          mediasist();
-        break;
+        	case 4:
+          		mediasist();
+        	break;
                 
-        case 5:
-          boletim();
-        break;
+        	case 5:
+          		boletim();
+        	break;
 				
-        case 6:
-          printf("Acesso encerrado");
-        break;
+        	case 6:
+          		printf("Acesso encerrado");
+	        break;
 
-				default:
-					printf("Opcao invalin");
-				break;
+			default:
+				printf("Opcao invalin");
+			break;
 }
 }
 	while(menu != 6);
