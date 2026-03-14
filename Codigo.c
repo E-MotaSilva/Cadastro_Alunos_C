@@ -22,7 +22,7 @@ void menusistema(){
 	printf("----------------------------\n");
 	printf("Sistema de cadastro de notas\n");
 	printf(" \n");
-  printf("1 - Cadastrar aluno\n");
+  	printf("1 - Cadastrar aluno\n");
 	printf("2 - Cadastrar notas\n");
 	printf("3 - Verificar notas\n");
 	printf("4 - Verificar media\n");
@@ -30,7 +30,7 @@ void menusistema(){
 	printf("6 - Sair\n");
 	printf("Escolha uma opcao: ");
 	scanf("%d", &menu);
-  printf(" \n");
+  	printf(" \n");
 		
 }
 
