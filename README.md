@@ -11,7 +11,11 @@ O sistema consiste em:
 - ✅ Cadastro de alunos com nome e matrícula e notas
 ---
 O objetivo do projeto é praticar praticar C e melhorar.
+
 ---
+Próximas atualizações:
+
+Uso de Struct para fazer o cadastro de varios alunos.
 
 ## 🛠 Tecnologias Utilizadas
 
