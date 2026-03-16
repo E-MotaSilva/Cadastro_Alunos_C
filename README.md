@@ -9,6 +9,7 @@ O sistema consiste em:
 - ✅ Estruturas de repetição
 - ✅ Exibição de média
 - ✅ Cadastro de alunos com nome e matrícula e notas
+- ✅ Visualização de boletim
 ---
 O objetivo do projeto é praticar praticar C e melhorar.
 
